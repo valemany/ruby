@@ -1,0 +1,6 @@
+--- 
+:admin:
+    :url: http://admin.shutterstock.com
+    :dev:
+      :db_host: dbmaster.dev.shuttercorp.net
+      :url: http://admin.integration.dev.shutterstock.com

@@ -1,0 +1,55 @@
+{
+	"browse" : {
+		"email": "silas+shutterstock-mobi@shutterstock.com",
+		"username": "shutterstockmobi",
+		"password": "c44ft3HWz7bNLZ50YIAF"
+	},
+	"download" : {
+		"username" : "shutterstockmobidownload",
+		"password" : "12345"
+	},
+	"expired" : {
+		"username" : "shutterstockmobi25expired",
+		"password" : "12345"
+	},
+	"active" : {
+		"username" : "shutterstockmobi25active",
+		"password" : "12345"
+	},
+	"enhanced" : {
+		"username" : "shutterstockmobienhanced",
+		"password" : "12345"
+	},
+	"out" : {
+		"username" : "shutterstockmobiout",
+		"password" : "12345"
+	},
+	"multi" : {
+		"username" : "shutterstockmobimulti",
+		"password" : "12345"
+	},
+	"empty": {
+		"username": "shutterstockmobiblank",
+		"password": "12345"
+	},
+	"international": {
+		"username": "shutterstockmobiinternational",
+		"password": "12345"
+	},
+	"kris" : {
+		"username" : "krisarnold7",
+		"password" : "12345"
+	},
+	"victor2" : {
+		"username" : "valemany1",
+		"password" : "12345"
+	},
+	"victor3" : {
+		"username" : "sprint231a",
+		"password" : "12345"
+	},
+	"ntffail": {
+		"username": "fail",
+		"password": "fail"
+	}
+}
