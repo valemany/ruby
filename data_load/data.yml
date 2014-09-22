@@ -1,0 +1,6 @@
+--- 
+:admin:
+    :url: http://victor.com
+    :dev:
+      :db_host: yeahyeah.net
+      :url: http://klk.com
