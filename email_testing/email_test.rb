@@ -19,7 +19,7 @@ output << info
 output.close
 
 File.open(output).each do |line|
-  if line =~ /^http\:\/\/twitter.com\/account\/confirm_email\/valemany12/ then 
+  if line =~ /^http\:\/\/twitter.com\/account\/confirm_email\/<password>/ then 
   	puts 'this works' 
   	@selector = line
   end
